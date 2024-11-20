@@ -1,0 +1,10 @@
+# Python
+*.pyc
+__pycache__/
+
+# VS Code
+.vscode/
+
+# Other potential files to ignore
+*.log
+*.sqlite3
